@@ -41,9 +41,6 @@ https://doi.org/10.1016/j.image.2018.12.006
 Knowledge-Based Systems, vol 146, 2018, pp:118-128
 https://doi.org/10.1016/j.knosys.2018.01.034
 
-
-
-
 ## Conference Paper
 
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces
