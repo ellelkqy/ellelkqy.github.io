@@ -6,18 +6,42 @@ title: Publications
 
 # Publications
 
-Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+## Journal Paper
+
+- Source-free multi-domain adaptation with fuzzy rule-based deep neural networks
+IEEE Transactions on Fuzzy System, 2023
+DOI: 10.1109/TFUZZ.2023.3276978
+- Multidomain adaptation with sample and source distillation
+IEEE Transactions on Cybernetics, 2023 
+DOI: 10.1109/TCYB.2023.3236008
+- Dynamic classifier alignment for unsupervised multi-source domain adaptation
+IEEE Transactions on Knowledge and Data Engineering, 2022
+DOI: 10.1109/TKDE.2022.3144423
+- Multi-source contribution learning for domain adaptation
+IEEE Transactions on Neural Networks and Learning Systems, vol. 32, no. 4, 2021
+DOI: 10.1109/TNNLS.2021.3069982
+- Super-resolution using neighbourhood regression with local structure prior
+Signal Processing: Image Communication, vol 72, 2019, pp: 58-68
+https://doi.org/10.1016/j.image.2018.12.006
+- A new method for image super-resolution with multi-channel constraints.
+Knowledge-Based Systems, vol 146, 2018, pp:118-128
+https://doi.org/10.1016/j.knosys.2018.01.034
+
+
+
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
-
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
-
-## Working Paper
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- Multi-Source Domain Adaptation with Incomplete Source Label Spaces
+in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023
+- Attention-Bridging TS Fuzzy Rules for Universal Multi-Domain Adaptation without Source Data
+in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023
+- Source-free multi-domain adaptation with global auxiliary model training
+in Proceedings of the International Joint Conference on Neural Networks (IJCNN), Italy, July 18-23, 2022, 
+DOI: 10.1109/IJCNN55064.2022.9892718
+- Multi-source domain adaptation with fuzzy-rule based deep neural networks
+in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE). Virtual Online: IEEE, July 11 - 14 2021, pp. 1–6 
+DOI: 10.1109/FUZZ45933.2021.9494586
+- Multi-source domain adaptation with distribution fusion and relationship extraction
+in Proceedings of the International Joint Conference on Neural Networks (IJCNN). Virtual online: IEEE, July 19 - 24 2020, pp. 1–6
+DOI: 10.1109/IJCNN48605.2020.9207556
