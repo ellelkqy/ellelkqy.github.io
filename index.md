@@ -73,5 +73,5 @@ DOI: 10.1109/IJCNN48605.2020.9207556
 # Services
 
 ## Journal reviewer: 
-- TKDE, TNNLS, TCYB, TFS, Knowledge-Based Systems.
+- TKDE, TNNLS, TCYB, TFS, TCSVT, IEEE/CAA, Knowledge-Based Systems, Neurocomputing.
 
