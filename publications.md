@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+## Publications
 
-## Journal Paper
+### Journal Paper
 
 - Source-free multi-domain adaptation with fuzzy rule-based deep neural networks
 IEEE Transactions on Fuzzy System, 2023
@@ -30,7 +30,7 @@ https://doi.org/10.1016/j.knosys.2018.01.034
 
 
 
-## Conference Paper
+### Conference Paper
 
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023
