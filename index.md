@@ -15,8 +15,9 @@ I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Proj
 ## News and Updates
 
 - **<font color='red'>[News]</font> Looking forward to seeing you!**
-- **June 2023：**IJCNN, Gold Coast, Australia.
 - **Aug 2023：**FUZZ-IEEE, Songdo Incheon, Korea.
+- **June 2023：**IJCNN, Gold Coast, Australia.
+
 
 # Publications
 
