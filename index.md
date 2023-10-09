@@ -71,8 +71,11 @@ DOI: 10.1109/IJCNN48605.2020.9207556
 - July 2019：UTS President's Scholarship (UTSP).
 
 
-# Services
-
+# Leadership/Services
+## Chair/Organiser: 
+- 2023 FUZZ-IEEE SS: Fuzzy machine learning
+## PC Member: 
+- AJCAI 2023.
 ## Journal reviewer: 
 - TKDE, TNNLS, TCYB, TFS, TCSVT, IEEE/CAA, Knowledge-Based Systems, Neurocomputing.
 
