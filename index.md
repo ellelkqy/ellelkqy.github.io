@@ -46,6 +46,7 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 - 2023: FUZZ-IEEE Best Paper Award 
 - 2022: UTS HDR Excellence Awards 
 - 2022：AAII Student Best Paper Award
+- 2021: UTS-FEIT Showcase TOP-3 Winner
 
 ## Scholarships
 
@@ -63,4 +64,16 @@ DOI: 10.1109/IJCNN55064.2022.9892718
   
 ## Journal reviewer: 
 - TKDE, TNNLS, TCYB, TFS, TCSVT, IEEE/CAA, Knowledge-Based Systems, Neurocomputing.
+
+# Activities
+
+## Conference Presentation: 
+- IEEE International Conference on Fuzzy Systems 2021, 2023
+- International Joint Conference on Neural Networks 2020, 2021
+
+## Workshop: 
+- UTS HDR Showcase, 2021
+- UTS-DeSI Workshop 2019, 2022
+
+  
 
