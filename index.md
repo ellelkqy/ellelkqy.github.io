@@ -19,7 +19,7 @@ I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Proj
 - **June 2023：**IJCNN, Gold Coast, Australia.
 
 
-# Publications (Selected)
+# Publications
 
 ## Journal Paper
 
