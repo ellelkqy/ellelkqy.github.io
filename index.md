@@ -61,7 +61,7 @@ DOI: 10.1109/IJCNN48605.2020.9207556
 # Awards
 
 ## Honors
-
+- 2023: FUZZ-IEEE Best Paper Award 
 - 2022: UTS HDR Excellence Awards 
 - 2022：AAII Student Best Paper Award
 
@@ -72,6 +72,7 @@ DOI: 10.1109/IJCNN48605.2020.9207556
 
 
 # Leadership/Services
+
 ## Chair/Organiser: 
 - 2023 FUZZ-IEEE SS: Fuzzy machine learning
 ## PC Member: 
