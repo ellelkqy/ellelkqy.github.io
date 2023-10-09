@@ -4,11 +4,10 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## Research Projects
 
-### Sponsored
+## Sponsored
 - ARC FL190100149: Autonomous machine learning for data-driven decision-making
 
-### Hold
+## Hold
 
 
