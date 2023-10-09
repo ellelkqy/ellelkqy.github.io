@@ -53,7 +53,7 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 - July 2019：UTS President's Scholarship (UTSP).
 
 
-# Leadership/Services
+# Services
 
 ## Chair/Organiser: 
 - 2023 FUZZ-IEEE SS: Fuzzy machine learning
