@@ -48,12 +48,6 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 - 2022：AAII Student Best Paper Award
 - 2021: UTS-FEIT Showcase TOP-3 Winner
 
-## Scholarships
-
-- July 2019：International Research Scholarship (IRS) .
-- July 2019：UTS President's Scholarship (UTSP).
-
-
 # Services
 
 ## Chair/Organiser: 
