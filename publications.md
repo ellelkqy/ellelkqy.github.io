@@ -36,7 +36,7 @@ https://doi.org/10.1016/j.knosys.2018.01.034
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023
 - Attention-Bridging TS Fuzzy Rules for Universal Multi-Domain Adaptation without Source Data
 in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023
-- Source-free multi-domain adaptation with global auxiliary model training
+- Source-free multi-domain adaptation with generally auxiliary model training
 in Proceedings of the International Joint Conference on Neural Networks (IJCNN), Italy, July 18-23, 2022, 
 DOI: 10.1109/IJCNN55064.2022.9892718
 - Multi-source domain adaptation with fuzzy-rule based deep neural networks
