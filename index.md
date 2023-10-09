@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 **Keqiuyin Li (UTS-AAII)**
 
@@ -19,9 +19,9 @@ I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Proj
 - **June 2023：**IJCNN, Gold Coast, Australia.
 
 
-# Latest Research
+## Latest Research
 
-## Journal 
+### Journal 
 
 - Source-free multi-domain adaptation with fuzzy rule-based deep neural networks
 IEEE Transactions on Fuzzy System, 2023
@@ -30,7 +30,7 @@ DOI: 10.1109/TFUZZ.2023.3276978
 IEEE Transactions on Cybernetics, 2023 
 DOI: 10.1109/TCYB.2023.3236008
 
-## Conference
+### Conference
 
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023
@@ -40,33 +40,32 @@ in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
 in Proceedings of the International Joint Conference on Neural Networks (IJCNN), Italy, July 18-23, 2022, 
 DOI: 10.1109/IJCNN55064.2022.9892718
 
-# Awards
+## Awards
 
-## Honors
 - 2023: FUZZ-IEEE Best Paper Award 
 - 2022: UTS HDR Excellence Awards 
 - 2022：AAII Student Best Paper Award
 - 2021: UTS-FEIT Showcase TOP-3 Winner
 
-# Services
+## Services
 
-## Chair/Organiser: 
+### Chair/Organiser: 
 - 2023 FUZZ-IEEE SS: Fuzzy machine learning
   
-## PC Member: 
+### PC Member: 
 - AJCAI 2023.
   
-## Journal reviewer: 
+### Journal reviewer: 
 - TKDE, TNNLS, TCYB, TFS, TCSVT, IEEE/CAA, Knowledge-Based Systems, Neurocomputing.
 
-# Activities
+## Activities
 
-## Presentation: 
+### Presentation: 
 - World Maths Day 2023, School of Science, China Jiliang University
 - IEEE International Conference on Fuzzy Systems 2021, 2023
 - International Joint Conference on Neural Networks 2020, 2021
 
-## Workshop: 
+### Workshop: 
 - UTS HDR Showcase, 2021
 - UTS-DeSI Workshop 2019, 2022
 
