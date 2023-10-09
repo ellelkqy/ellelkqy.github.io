@@ -7,10 +7,10 @@ title: Awards
 ## Honors
 - 2023: FUZZ-IEEE Best Paper Award
 - 2022: UTS HDR Excellence Awards 
-- 2022：AAII Student Best Paper Award
+- 2022: AAII Student Best Paper Award
 
 ## Scholarships
 
-- July 2019：International Research Scholarship (IRS).
-- July 2019：UTS President's Scholarship (UTSP).
+- July 2019: International Research Scholarship (IRS).
+- July 2019: UTS President's Scholarship (UTSP).
 
