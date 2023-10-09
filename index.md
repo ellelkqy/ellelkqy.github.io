@@ -61,7 +61,8 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 
 # Activities
 
-## Conference Presentation: 
+## Presentation: 
+- World Maths Day 2023, School of Science, China Jiliang University
 - IEEE International Conference on Fuzzy Systems 2021, 2023
 - International Joint Conference on Neural Networks 2020, 2021
 
