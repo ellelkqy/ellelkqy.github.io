@@ -14,7 +14,3 @@ title: Awards
 - 2022: UTS HDR Excellence Awards 
 - 2022：AAII Student Best Paper Award
 
-
-## Services
-
-- Journal reviewer: TKDE, TNNLS, TCYB, TFS, Knowledge-Based Systems.
