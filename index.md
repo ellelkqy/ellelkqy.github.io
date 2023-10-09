@@ -19,9 +19,9 @@ I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Proj
 - **June 2023：**IJCNN, Gold Coast, Australia.
 
 
-# Publications
+# Latest Research
 
-## Journal (Latest) 
+## Journal 
 
 - Source-free multi-domain adaptation with fuzzy rule-based deep neural networks
 IEEE Transactions on Fuzzy System, 2023
@@ -30,7 +30,7 @@ DOI: 10.1109/TFUZZ.2023.3276978
 IEEE Transactions on Cybernetics, 2023 
 DOI: 10.1109/TCYB.2023.3236008
 
-## Conference (Latest)
+## Conference
 
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023
