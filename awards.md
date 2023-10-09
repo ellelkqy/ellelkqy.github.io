@@ -8,6 +8,7 @@ title: Awards
 - 2023: FUZZ-IEEE Best Paper Award
 - 2022: UTS HDR Excellence Awards 
 - 2022: AAII Student Best Paper Award
+- 2021: UTS-FEIT Showcase TOP-3 Winner
 
 ## Scholarships
 
