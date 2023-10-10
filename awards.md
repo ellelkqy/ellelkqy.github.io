@@ -12,6 +12,6 @@ title: Awards
 
 ### Scholarships
 
-- July 2019: International Research Scholarship (IRS).
-- July 2019: UTS President's Scholarship (UTSP).
+- July 2019 - Oct 2022: International Research Scholarship (IRS).
+- July 2019- Oct 2022: UTS President's Scholarship (UTSP).
 
