@@ -4,8 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-### Sponsored
-- ARC FL190100149: Autonomous machine learning for data-driven decision-making
+### Sponsored by
+- Australian Research Council (ARC) FL190100149: Autonomous machine learning for data-driven decision-making
+- Australian Government Research Training Program
 
 ### Hold
 
