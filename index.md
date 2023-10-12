@@ -10,7 +10,7 @@ I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Proj
 
 ## Research Interests
 
-**Machine Learning**, **Unsupervised Learning**, **Transfer Learning**, **Computer Vision**, **Image Super-Resolution**,
+**Machine Learning**, **Unsupervised Learning**, **Transfer Learning**, **Computer Vision**, **Image Super-Resolution**
 
 ## News and Updates
 
