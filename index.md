@@ -27,6 +27,7 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 
 - Source-Free Unsupervised Domain Adaptation: Current Research and Future Directions,
 Neurocomputing, 2023.
+https://doi.org/10.1016/j.neucom.2023.126921
 - Source-free multi-domain adaptation with fuzzy rule-based deep neural networks,
 IEEE Transactions on Fuzzy System, 2023.
 DOI: 10.1109/TFUZZ.2023.3276978
