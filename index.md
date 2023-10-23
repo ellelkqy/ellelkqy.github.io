@@ -8,6 +8,7 @@ layout: page
 
 I am current a Research Associate under Dist. Prof. Jie Lu’s ARC Laureate Project at Australian Artificial Intelligence Institute (AAII), University of Technology Sydney (UTS). I received my Ph.D degree in computer science from UTS in 2023. My research addresses transfer learning with multiple source domains. The primary objective of my research is to investigate the transformative potential of transfer learning in improving people's lives, with a specific focus on enhancing data privacy protection to ensure secure data handling and unlock valuable insights. The contributions of my works addressed three questions in machine learning and artificial intelligence: data scarcity, data privacy and knowledge extraction. 
 
+
 I am available to supervise PhD and Master Candidates by Research with backgrounds in transfer learning, cross-modality learning, fuzzy systems and image super-resolution.
 
 ## Research Interests
