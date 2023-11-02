@@ -17,7 +17,8 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> Looking forward to seeing you!**
+- **<font color='red'>[News]</font> Details coming soon!**
+- **We are organising special sessions in WCCI held in YOKOHAMA, JAPAN, June 30 - July 4 2024.
 - **Aug 2023：**FUZZ-IEEE, Songdo Incheon, Korea.
 - **June 2023：**IJCNN, Gold Coast, Australia.
 
