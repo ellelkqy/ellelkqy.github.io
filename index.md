@@ -61,6 +61,7 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 - 2023 FUZZ-IEEE SS: Fuzzy machine learning
   
 ### PC Member: 
+- WCCI 2024.
 - AJCAI 2023.
   
 ### Journal reviewer: 
