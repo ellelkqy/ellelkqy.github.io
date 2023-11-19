@@ -33,6 +33,8 @@ https://doi.org/10.1016/j.knosys.2018.01.034
 
 ### Conference Paper
 
+- Domain Adaptation for Image Segmentation with Category-Guide Classifier,
+in Proceedings of  International Conference on Intelligent Systems and Knowledge Engineering (ISKE) 2023.
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces,
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023.
 - Attention-Bridging TS Fuzzy Rules for Universal Multi-Domain Adaptation without Source Data,
