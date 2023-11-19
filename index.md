@@ -50,6 +50,7 @@ DOI: 10.1109/IJCNN55064.2022.9892718
 
 ## Awards
 
+- 2023: ISKE Best Paper Award
 - 2023: FUZZ-IEEE Best Paper Award 
 - 2022: UTS HDR Excellence Awards 
 - 2022：AAII Student Best Paper Award
