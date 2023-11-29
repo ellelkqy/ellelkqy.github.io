@@ -52,4 +52,4 @@ in Proceedings of the International Joint Conference on Neural Networks (IJCNN).
 
 ### Thesis
 - Deep Neural Networks for Multi-Source Transfer Learning, Doctoral dissertation, University of Technology Sydney, 2022.
-http://hdl.handle.net/10453/170509
+[Paper](http://hdl.handle.net/10453/170509)
