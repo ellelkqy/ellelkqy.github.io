@@ -8,10 +8,10 @@ title: Publications
 
 - Source-Free Unsupervised Domain Adaptation: Current Research and Future Directions,
 Neurocomputing, 2023.
-<font color='blue'>[Paper](https://doi.org/10.1016/j.neucom.2023.126921)</font>
+<font color='blue'>[Paper]</font>(https://doi.org/10.1016/j.neucom.2023.126921)
 - Source-free multi-domain adaptation with fuzzy rule-based deep neural networks,
 IEEE Transactions on Fuzzy System, 2023.
-<font color='blue'>[Paper](https://doi.org/10.1109/TFUZZ.2023.3276978)  [Code](https://github.com/AAII-DeSI/transfer-learning-el3518/tree/main/TFS-2023-SFFDN)</font>
+<font color='blue'>[Paper]</font>(https://doi.org/10.1109/TFUZZ.2023.3276978)  <font color='blue'>[Code]</font>(https://github.com/AAII-DeSI/transfer-learning-el3518/tree/main/TFS-2023-SFFDN)
 - Multidomain adaptation with sample and source distillation,
 IEEE Transactions on Cybernetics, 2023. 
 <font color='blue'>[Paper](https://doi.org/10.1109/TCYB.2023.3236008) [Code](https://github.com/AAII-DeSI/transfer-learning-el3518/tree/main/TCYB-2023-SSD)</font>
