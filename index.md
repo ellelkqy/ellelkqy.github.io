@@ -17,7 +17,7 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> [Submit you papers](https://2024.ieeewcci.org/submission)**
+- **<font color='red'>[News]</font> [<font color='blue'>Submit you papers</font>](https://2024.ieeewcci.org/submission)**
 - WCCI FUZZ-IEEE 2024 Special Session-Fuzzy Machine Learning- [Call for Papers](https://github.com/ellelkqy/ellelkqy.github.io/blob/main/files/wcci_fuzz24_ss_cfp.pdf)
 - WCCI IJCNN 2024 Special Session-Domain Adaptation for Complex Situations- [Call for Papers](https://github.com/ellelkqy/ellelkqy.github.io/blob/main/files/wcci_ijcnn24_ss_cfp.pdf)
 - We are organising special sessions in **WCCI held in YOKOHAMA, JAPAN, June 30 - July 4 2024**.
