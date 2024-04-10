@@ -61,6 +61,8 @@ in Proceedings of the International Joint Conference on Neural Networks (IJCNN),
 ## Services
 
 ### Chair/Organiser: 
+- 2024 FUZZ-IEEE SS: Fuzzy machine learning
+- 2024 IJCNN SS: : Domain adaptation for complex situations: Theories, Algorithms and Applications
 - 2023 FUZZ-IEEE SS: Fuzzy machine learning
   
 ### PC Member: 
