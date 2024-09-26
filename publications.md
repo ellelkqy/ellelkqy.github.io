@@ -51,7 +51,7 @@ in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
 in Proceedings of the International Joint Conference on Neural Networks (IJCNN), Italy, July 18-23, 2022. 
 [<font color='blue'>Paper</font>](https://doi.org/10.1109/IJCNN55064.2022.9892718) [<font color='blue'>Code</font>](https://github.com/el3518/GAM)
 - Multi-source domain adaptation with fuzzy-rule based deep neural networks,
-in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE). Virtual Online: IEEE, July 11 - 14 2021, pp. 1–6. 
+in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE). Virtual Online: IEEE, July 11 - 14 2021, pp. 1–6. (Best Paper Finalists)
 [<font color='blue'>Paper</font>](https://doi.org/10.1109/FUZZ45933.2021.9494586)
 - Multi-source domain adaptation with distribution fusion and relationship extraction,
 in Proceedings of the International Joint Conference on Neural Networks (IJCNN). Virtual online: IEEE, July 19 - 24 2020, pp. 1–6.
