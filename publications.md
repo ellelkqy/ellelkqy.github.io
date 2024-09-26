@@ -6,10 +6,11 @@ title: Publications
 
 ### Journal Paper
 
--Federated Fuzzy Transfer Learning with Domain and Category Shifts,
+
+- Federated Fuzzy Transfer Learning with Domain and Category Shifts,
 IEEE Transactions on Fuzzy System, 2024.
 [<font color='blue'>Paper</font>](https://doi.org/10.1109/TFUZZ.2024.3459927)  [<font color='blue'>Code</font>](https://github.com/el3518/FdFTL)
--Multi-Source Domain Adaptation Handling Inaccurate Label Spaces,
+- Multi-Source Domain Adaptation Handling Inaccurate Label Spaces,
 Neurocomputing, 2024.
 [<font color='blue'>Paper</font>](https://doi.org/10.1016/j.neucom.2024.127824)
 - Source-Free Unsupervised Domain Adaptation: Current Research and Future Directions,
@@ -40,11 +41,11 @@ Knowledge-Based Systems, vol 146, 2018, pp:118-128.
 ### Conference Paper
 
 - Domain Adaptation for Image Segmentation with Category-Guide Classifier,
-in Proceedings of  International Conference on Intelligent Systems and Knowledge Engineering (ISKE) 2023.
+in Proceedings of  International Conference on Intelligent Systems and Knowledge Engineering (ISKE) 2023. (Best Paper Award)
 - Multi-Source Domain Adaptation with Incomplete Source Label Spaces,
 in Proceedings of International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES) 2023.
 - Attention-Bridging TS Fuzzy Rules for Universal Multi-Domain Adaptation without Source Data,
-in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023.
+in Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023.(Best Paper Award)
 [<font color='blue'>Paper</font>](https://doi.org/10.1109/FUZZ52849.2023.10309671)
 - Source-free multi-domain adaptation with generally auxiliary model training,
 in Proceedings of the International Joint Conference on Neural Networks (IJCNN), Italy, July 18-23, 2022. 
