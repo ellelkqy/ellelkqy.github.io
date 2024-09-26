@@ -29,6 +29,12 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 
 ### Journal 
 
+- Federated Fuzzy Transfer Learning with Domain and Category Shifts,
+IEEE Transactions on Fuzzy System, 2024.
+[<font color='blue'>Paper</font>](https://doi.org/10.1109/TFUZZ.2024.3459927)  [<font color='blue'>Code</font>](https://github.com/el3518/FdFTL)
+- Multi-Source Domain Adaptation Handling Inaccurate Label Spaces,
+Neurocomputing, 2024.
+[<font color='blue'>Paper</font>](https://doi.org/10.1016/j.neucom.2024.127824)
 - Source-Free Unsupervised Domain Adaptation: Current Research and Future Directions,
 Neurocomputing, 2023.
 [<font color='blue'>Paper</font>](https://doi.org/10.1016/j.neucom.2023.126921)
