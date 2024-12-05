@@ -19,11 +19,14 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 
 - **<font color='red'>[News]</font> [<font color='blue'>Submit you FUZZ IEEE papers</font>]**
 - **<font color='red'>[News]</font> [<font color='blue'>Submit you IJCNN papers</font>](https://cmt3.research.microsoft.com/IJCNN2025/Submission/Index)**
+- We are organising special sessions in **FUZZ-IEEE SS, Reims, France,  June 30 - July 5 2025**.
 - FUZZ-IEEE 2025 Special Session-Fuzzy Machine Learning- [<font color='blue'>Call for Papers</font>](https://github.com/ellelkqy/ellelkqy.github.io/blob/main/files/FuzzIEEE-2025-cfp-fuzzy%20machine%20learning.pdf)
+- We are organising special sessions in **IJCNN SS, Rome, Italy,  july 6 - July 9 2025**.
 - IJCNN 2025 Special Session-Domain Adaptation for Complex Situations- [<font color='blue'>Call for Papers</font>](https://github.com/ellelkqy/ellelkqy.github.io/blob/main/files/ijcnn25_cfp_ss_domain%20adaptation%20for%20complex%20situations.pdf)
+
 - WCCI FUZZ-IEEE 2024 Special Session-Fuzzy Machine Learning- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_fuzz24_ss_cfp.pdf)
 - WCCI IJCNN 2024 Special Session-Domain Adaptation for Complex Situations- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_ijcnn24_ss_cfp_0.pdf)
-- We are organising special sessions in **WCCI held in YOKOHAMA, JAPAN, June 30 - July 4 2024**.
+
 - **Aug 2023：**FUZZ-IEEE, Songdo Incheon, Korea.
 - **June 2023：**IJCNN, Gold Coast, Australia.
 
