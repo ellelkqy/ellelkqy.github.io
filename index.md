@@ -18,7 +18,7 @@ I am available to supervise PhD and Master Candidates by Research with backgroun
 ## News and Updates
 
 - **<font color='red'>[News]</font> [<font color='blue'>Submit you papers</font>](https://2024.ieeewcci.org/submission)**
-- - FUZZ-IEEE 2025 Special Session-Fuzzy Machine Learning- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_fuzz24_ss_cfp.pdf)
+- - FUZZ-IEEE 2025 Special Session-Fuzzy Machine Learning- [<font color='blue'>Call for Papers</font>](https://github.com/ellelkqy/ellelkqy.github.io/blob/main/files/FuzzIEEE-2025-cfp-fuzzy%20machine%20learning.pdf)
 - IJCNN 2025 Special Session-Domain Adaptation for Complex Situations- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_ijcnn24_ss_cfp_0.pdf)
 - WCCI FUZZ-IEEE 2024 Special Session-Fuzzy Machine Learning- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_fuzz24_ss_cfp.pdf)
 - WCCI IJCNN 2024 Special Session-Domain Adaptation for Complex Situations- [<font color='blue'>Call for Papers</font>](https://www.uts.edu.au/sites/default/files/2023-12/wcci_ijcnn24_ss_cfp_0.pdf)
